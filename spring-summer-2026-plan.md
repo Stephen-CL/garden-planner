@@ -14,12 +14,12 @@
         └─────────────────────────┘  └─────────────────────────┘
   W                    ╔══════════════════════════════╗                   E
                        ║   CHICKEN WIRE ARCH TUNNEL   ║
-                       ║  West: pole beans + hyacinth ║
+                       ║  West: pole beans + purple pole beans║
                        ║  East: cucumbers (both sides)║
                        ╚══════════════════════════════╝
         ┌─────────────────────────┐  ┌─────────────────────────┐
         │     BED 3 (SW)          │  │     BED 4 (SE)          │
-        │  Hyacinth bean · Okra   │  │  Cucumbers · Ginger     │
+        │  Purple pole bean · Okra   │  │  Cucumbers · Ginger     │
         │  Rosemary · Nasturtium  │  │  Dill · Mint · Nasturt  │
         └─────────────────────────┘  └─────────────────────────┘
                           SOUTH
@@ -37,7 +37,7 @@
 |------|--------------|
 | **April 1** | All perennial herbs (thyme, oregano, rosemary, mint), dill, nasturtiums |
 | **April 15** | Tomatoes, bell peppers, basil, cucumbers |
-| **May 1** | Pole beans, hyacinth bean vine, okra, ginger |
+| **May 1** | Pole beans, purple pole beans, okra, ginger |
 
 > Last frost in Madison, AL is approximately March 25.
 > Beans and ginger need soil temperature above 60°F — don't rush May 1 plantings.
@@ -62,7 +62,7 @@ Each bed is 3 ft deep and divided into 3 rows:
 - **Peppers** — NO cage needed. Self-supporting at 2–3 ft. If a branch droops under heavy fruit, tie to a single bamboo stake.
 - **Pole beans** — train onto chicken wire arch. No additional support needed.
 - **Cucumbers** — train onto chicken wire arch. No additional support needed.
-- **Hyacinth bean vine** — train onto chicken wire arch. Very aggressive grower, will self-attach quickly.
+- **Purple pole beans** — train onto chicken wire arch. Will self-attach quickly. Harvest pods young before they toughen.
 - **Okra** — free-standing, no support needed. Grows 5–6 ft tall.
 
 ---
@@ -132,12 +132,12 @@ Legend:
 
 ---
 
-### Bed 3 — SW (Hyacinth Bean · Okra · Rosemary · Nasturtium)
+### Bed 3 — SW (Purple Pole Bean · Okra · Rosemary · Nasturtium)
 
 ```
  ←——————————————————— 72 inches wide ———————————————————→
  ┌────────────────────────────────────────────────────────┐
- │  BACK ROW — Hyacinth Bean on arch (18 in spacing)     │ ↑
+ │  BACK ROW — Purple Pole Bean on arch (18 in spacing)          │ ↑
  │     (H)       (H)       (H)       (H)                 │ 30in
  │     6"        24"       42"       60"                 │
  │                                                        │
@@ -151,8 +151,8 @@ Legend:
  └────────────────────────────────────────────────────────┘
 
 Legend:
-  (H)  = Hyacinth Bean Vine — 18 in apart (train on arch)
-         ⚠ DO NOT eat dried mature pods — toxic raw
+  (H)  = Purple Pole Bean — 18 in apart (train on arch)
+         
   (Ok) = Clemson Spineless Okra — 18 in apart
          Soak seeds overnight before planting
   (Ro) = Rosemary — 12 in apart (grows wide over time)
@@ -225,7 +225,7 @@ Legend:
 
 | Plant | Type | Qty | Spacing | Plant Date | Notes |
 |-------|------|-----|---------|------------|-------|
-| Hyacinth Bean Vine | Ornamental climber | 4 | 18 in | May 1 | Direct sow. ⚠ Do NOT eat dried pods — toxic raw. |
+| Purple Pole Bean | Pole bean | 4 | 18 in | May 1 | Direct sow. Pods are edible — harvest young and often. |
 | Clemson Spineless Okra | Warm-season veg | 4 | 18 in | May 1 | Soak seeds overnight. Harvest at 3–4 in daily. |
 | Rosemary | Perennial herb | 2 | 12 in | Apr 1 | Evergreen perennial. Very drought-tolerant. |
 | Nasturtium | Trap crop | 3 | Fill gaps | Apr 1 | Tolerates partial shade reasonably well. |
@@ -249,7 +249,7 @@ The chicken wire arch bridges all four beds, running east–west between the nor
 | Side | Bed | Plant | Spacing | Notes |
 |------|-----|-------|---------|-------|
 | West | Bed 1 (north foot) | KY Wonder Pole Bean | 12 in | Direct sow May 1 |
-| West | Bed 3 (south foot) | Hyacinth Bean Vine | 18 in | Direct sow May 1 — ⚠ toxic dried pods |
+| West | Bed 3 (south foot) | Purple Pole Bean | 18 in | Direct sow May 1 — pods edible, harvest young |
 | East | Bed 2 (north foot) | Straight Eight Cucumber | 18 in | Transplant Apr 15 |
 | East | Bed 4 (south foot) | Straight Eight Cucumber | 18 in | Transplant Apr 15 |
 
